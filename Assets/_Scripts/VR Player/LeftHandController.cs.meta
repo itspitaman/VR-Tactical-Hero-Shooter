@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 177deb67fed764e4386b8c15abeba937
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - triggerAction: {instanceID: 0}
+  - gripAction: {instanceID: 0}
+  - locomotionSystem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a551cb8641513b944942be545f9efe87, type: 3}
+  m_Name: Zenyatta
+  m_EditorClassIdentifier: 
+  heroName: Zenyatta
+  hasHealth: 1
+  hasArmor: 0
+  hasShield: 1
+  hasOverHP: 0
+  health: 50
+  armor: 0
+  shield: 150
+  overHP: 0
+  moveSpeed: 3
